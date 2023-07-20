@@ -23,6 +23,8 @@ Once your elevation requests have been approved, do the following:
 
 Open the **Turn Windows features on or off** window, and scroll down until you see **Windows Subsystem for Linux** and check that box.
 
+> Also check **Virtual Machine Platform** if it isn't checked already.
+
 ![Windows Features](./img/winfeatures.png)
 
 > You will be prompted to restart your machine, restart it.
